@@ -6,7 +6,7 @@ This repository contains a collection of projects related to Reinforcement Learn
 
 1. **CartPole-v1 Solver**
    - Implementation of a simple Q-learning agent to solve the CartPole-v1 environment.
-   - [Link to Project](./cartpole_solver)
+   - [Link to Project]([./cartpole_solver](https://github.com/Abhinav079/Reinforcement-learning-projects/tree/main/CartPole-v1%20Solver))
 
 2. **Deep Q-Network (DQN) for Atari Games**
    - Application of DQN to play Atari 2600 games.
